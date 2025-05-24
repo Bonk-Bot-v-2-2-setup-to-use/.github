@@ -58,3 +58,5 @@ Bonkbot is a real-time MEV (Maximal Extractable Value) automation tool used in D
 
 This repository is a community-built **offline setup assistant**. We are not affiliated with the official Bonkbot developers. Always use tools responsibly within legal boundaries.
 
+## 🖼 Preview
+![UI](https://image.blockbeats.cn/upload/2024-03-25/8c7b7baedb1cb999a868ee24611014173253ab1e.png?x-oss-process=image/quality,q_50/format,webp)
